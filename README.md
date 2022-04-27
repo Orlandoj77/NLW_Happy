@@ -52,28 +52,13 @@ Abra seu terminal, escolha um lugar para clonar o repositório e execute:
   git clone https://github.com/MarcosJBM/Happy-NLW-3.git
 ```
 
-## Passo 2: Configurando o Projeto:
-
-Nas pastas **Server** e **Web** execute respectivamente:
-
-```sh
- npm install e yarn install
-```
-
-Com isso, dependências do projeto serão instaladas.
-
-Na pasta **Server** voce irá precisar criar as **migrations**, execute:
-
-```sh
- yarn typeorm migration:run
-```
 
 ## Passo 3: Executando a aplicação.
 
 Para executar a aplicação **Web** e **Mobile** utilize:
 
 ```sh
- yarn start
+ yarn dev
 ```
 
 Para executar o **Server**, utilize:
