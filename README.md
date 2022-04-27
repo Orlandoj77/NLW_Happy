@@ -1,7 +1,6 @@
 # NLW_Happy
 
 <h1 align="center">
-    <img alt="Proffy" src=".github/logo.svg" height="100px" />
     <br>Next Level Week #3<br/>
     Node.js | ReactJS | React Native
 </h1>
@@ -11,10 +10,6 @@
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#executar">Como Executar</a>
 </p>
-
-<p align="center">
-    <img alt="Design do Projeto" width="650px" src=".github/laptop-happy.png" />
-<p>
 
 <a id="sobre"></a>
 
